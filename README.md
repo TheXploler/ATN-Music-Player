@@ -2,6 +2,9 @@
 
 ATN Music Player is a totally normal music player
 
+## Demo
+![ATNMP Demo Image](Demo.png)
+
 ## Installation
 
 Install [Python](https://www.python.org/downloads/) and use the package manager [pip](https://pip.pypa.io/en/stable/) to install ATN Music Player dependencies.
